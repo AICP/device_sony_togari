@@ -2,6 +2,8 @@
 $(call inherit-product, device/sony/togari/aosp_c6833.mk)
 
 
+# Inherit aicp Rhine device parts
+$(call inherit-product, device/sony/rhine/platform2.mk)
 
 # togari.mk in vendor/AICP/products
 #

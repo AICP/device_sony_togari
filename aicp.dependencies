@@ -1,0 +1,67 @@
+[
+  {
+    "repository": "sony-aicp-mm/device-sony-rhine",
+    "target_path": "device/sony/rhine",
+    "branch":      "mm6.0"
+  },
+  {
+    "repository": "sony-aicp-mm/device-sony-common",
+    "target_path": "device/sony/common-aosp",
+    "branch":      "mm6.0"
+  },
+  {
+    "repository": "sony-aicp-mm/kernel-sony",
+    "target_path": "kernel/sony/msm",
+    "branch":      "mm6.0"
+  },
+  {
+    "repository": "sony-aicp-mm/hardware-sony-camera",
+    "target_path": "hardware/sony/camera",
+    "branch":      "mm6.0"
+  },
+  {
+    "repository": "sony-aicp-mm/hardware-sony-init",
+    "target_path": "hardware/sony/init",
+    "branch":      "mm6.0"
+  },
+  {
+    "repository":  "sonyxperiadev/thermanager",
+    "target_path": "hardware/sony/thermanager",
+    "branch":      "master"
+  },
+  {
+    "repository":  "sonyxperiadev/timekeep",
+    "target_path": "hardware/sony/timekeep",
+    "branch":      "master"
+  },
+  {
+    "repository":  "sonyxperiadev/macaddrsetup",
+    "target_path": "hardware/sony/macaddrsetup",
+    "branch":      "master"
+  },
+  {
+    "repository":  "CyanogenMod/android_hardware_qcom_display",
+    "target_path": "hardware/qcom/display-caf/sony",
+    "branch":      "cm-13.0-sony"
+  },
+  {
+    "repository":  "CyanogenMod/android_hardware_qcom_media",
+    "target_path": "hardware/qcom/media-caf/sony",
+    "branch":      "cm-13.0-sony"
+  },
+  {
+    "repository":  "SonyAosp/platform_vendor_qcom",
+    "target_path": "vendor/qcom",
+    "branch":      "mm-6.0"
+  },
+  {
+    "repository":  "SonyAosp/platform_vendor_sony",
+    "target_path": "vendor/sony",
+    "branch":      "mm-6.0"
+  },
+  {
+    "repository":  "SonyAosp/platform_vendor_qcom_proprietary",
+    "target_path": "vendor/qcom/proprietary",
+    "branch":      "mm-6.0"
+  }
+]

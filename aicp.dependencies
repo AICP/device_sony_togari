@@ -20,11 +20,6 @@
     "branch":      "mm6.0"
   },
   {
-    "repository": "sony-aicp-mm/hardware-sony-init",
-    "target_path": "hardware/sony/init",
-    "branch":      "mm6.0"
-  },
-  {
     "repository":  "sonyxperiadev/thermanager",
     "target_path": "hardware/sony/thermanager",
     "branch":      "master"
@@ -50,18 +45,18 @@
     "branch":      "cm-13.0-sony"
   },
   {
-    "repository":  "SonyAosp/platform_vendor_qcom",
-    "target_path": "vendor/qcom",
-    "branch":      "mm-6.0"
+    "repository":  "sony-aicp-mm/platform_vendor_qcom",
+    "target_path": "vendor/qcom/sony",
+    "branch":      "mm6.0"
   },
   {
-    "repository":  "SonyAosp/platform_vendor_sony",
+    "repository":  "sony-aicp-mm/platform_vendor_sony",
     "target_path": "vendor/sony",
-    "branch":      "mm-6.0"
+    "branch":      "mm6.0"
   },
   {
-    "repository":  "SonyAosp/platform_vendor_qcom_proprietary",
-    "target_path": "vendor/qcom/proprietary",
-    "branch":      "mm-6.0"
+    "repository":  "sony-aicp-mm/platform_vendor_qcom_proprietary",
+    "target_path": "vendor/qcom/sony/proprietary",
+    "branch":      "mm6.0"
   }
 ]

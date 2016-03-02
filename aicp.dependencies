@@ -20,6 +20,11 @@
     "branch":      "mm6.0"
   },
   {
+    "repository":  "sony-aicp-mm/hardware-sony-init",
+    "target_path": "hardware/sony/init",
+    "branch":      "mm6.0"
+  },
+  {
     "repository":  "sonyxperiadev/thermanager",
     "target_path": "hardware/sony/thermanager",
     "branch":      "master"

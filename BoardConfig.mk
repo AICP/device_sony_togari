@@ -18,6 +18,5 @@ include device/sony/rhine/PlatformConfig2.mk
 TARGET_BOOTLOADER_BOARD_NAME := C6833
 
 BOARD_KERNEL_CMDLINE += androidboot.hardware=togari
-BOARD_KERNEL_CMDLINE += mem=1759M
 
 TARGET_TAP_TO_WAKE_NODE := "/sys/devices/virtual/input/max1187x/wakeup_gesture"

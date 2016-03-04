@@ -19,7 +19,9 @@ $(call inherit-product, device/sony/togari/device.mk)
 $(call inherit-product, frameworks/native/build/phone-xhdpi-2048-dalvik-heap.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 
+PRODUCT_NAME := aicp_c6833
 PRODUCT_DEVICE := togari
+PRODUCT_MODEL := Xperia Z Ultra (AOSP)
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony
 

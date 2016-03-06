@@ -38,8 +38,9 @@ PRODUCT_PACKAGES += \
     lights.togari
 
 # Simple PowerHAL
-PRODUCT_PACKAGES += \
-    power.togari
+#power
+#PRODUCT_PACKAGES += \
+#    power.togari
     
 # NFC
 PRODUCT_PACKAGES += \

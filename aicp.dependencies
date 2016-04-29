@@ -40,14 +40,9 @@
     "branch":      "master"
   },
   {
-    "repository":  "CyanogenMod/android_hardware_qcom_display",
-    "target_path": "hardware/qcom/display-caf/sony",
-    "branch":      "cm-13.0-sony"
-  },
-  {
-    "repository":  "CyanogenMod/android_hardware_qcom_media",
-    "target_path": "hardware/qcom/media-caf/sony",
-    "branch":      "cm-13.0-sony"
+    "repository":  "sonyxperiadev/vendor-qcom-opensource-dataservices",
+    "target_path": "hardware/sony/opensource/dataservices",
+    "branch":      "master"
   },
   {
     "repository":  "sony-aicp-mm/platform_vendor_qcom",
